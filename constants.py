@@ -4,4 +4,4 @@
 # Created on: March 2022
 # This file holds the constants for the pizza program
 
-TEMPLATE = X
+TEMPLATE = 0
