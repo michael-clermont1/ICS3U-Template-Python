@@ -6,7 +6,6 @@
 #    with diameter inputted by the user and HST
 
 
-
 def main():
     # this function calculates the circumference
 
