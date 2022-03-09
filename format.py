@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Mr. Coxall
-# Created on: Sep 2020
+# Created by: Michael Clermont
+# Created on: Mar 2022
 # This program shows formatting output
 
 
